@@ -1,0 +1,58 @@
+body {
+background-color: aquamarine;
+}
+
+
+.Website {
+  background-color: dodgerblue;
+  border: 3px solid black;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.table tr {
+  background-color: aquamarine;
+}
+
+.table tr,
+th,
+td {
+  border: 2px solid rgb(59, 0, 197);
+  padding: 10px;
+}
+
+table {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  color: rgb(0, 0, 0);
+}
+
+.title {
+  background-color: blueviolet;
+  font-family: "Style Script", cursive;
+  font-size: 100px;
+}
+
+.e {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.learn {
+  background-color: yellowgreen;
+  border: 2px solid black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  text-decoration: underline white;
+}
+
+.info {
+  background-color: rgb(216, 22, 22);
+  border: 2px solid black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  color: white;
+}
